@@ -5,7 +5,7 @@
 > El presente proyecto, desarrolla e implementa el uso de una alarma ecológica (un Buzzer en nuestro caso),
 la cual es activada por medio de un ReedSwitch (o interruptor magnético).
 
-Será implementada en una placa arduino UNO, reduciendo su consumo energético, y simulando 
+> Será implementada en una placa arduino UNO, reduciendo su consumo energético, y simulando 
 la alarma de una puerta que permanecerá apagada cuando esté cerrada y cuando se abra, se active
 
 ![Imagen_SAP](maqueta_SAP.jpg "Maqueta")
